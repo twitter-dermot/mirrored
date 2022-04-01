@@ -1,0 +1,4 @@
+{
+  "dl": "https://artifactory.twitter.biz/rust-crates.io-mirror/api/v1/crates",
+  "api": "https://crates.io"
+}
